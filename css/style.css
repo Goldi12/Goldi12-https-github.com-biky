@@ -1,0 +1,255 @@
+body {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+/* TITLE SECTION  */
+
+#title{
+  background-color: #008E89;
+}
+
+
+.navbar-section{
+  padding-top: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+
+  text-align: center;
+}
+
+#navbar-logo {
+  font-size: 40px;
+
+  font-weight: bolder;
+}
+
+.home-span{
+  color: white;
+  background-image: -webkit-linear-gradient(0deg, #FFD32D 10%, #FFD32D  10%);
+
+}
+
+.message{
+  color: white;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 70px;
+  font-weight: bold;
+}
+
+.message-image{
+  align-items: center;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.biky-image{
+  width: 100%
+
+}
+
+
+
+.nav-link{
+  font-weight: 600;
+  font-size: 1.2rem;
+  filter: brightness(80%);
+
+}
+.nav-link:hover{
+  filter: brightness(100%);
+  font-size: 1.5rem;
+}
+
+
+
+#btn-buybikey{
+  background-color: #FFD32D;
+  color: white;
+  font-weight: 600;
+  font-size: 25px;
+  margin-top: 10px;
+}
+
+
+#btn-buybikey:hover {
+  background-color: white;
+  color:  #FFD32D;
+  font-size: 26px;
+}
+
+
+.i-class{
+  font-size: 28px;
+}
+/* End title section  */
+
+
+/* features section start */
+#features{
+  align-items: center;
+  padding-top: 30px;
+  padding-left: 50px;
+  padding-right: 50px;
+
+background-image: -webkit-linear-gradient(10deg, #FFD32D 40%, #008E89  20%);
+
+}
+
+/* #E4E9FD */
+
+.features-icon{
+  font-size: 40px;
+  color: #008E89;
+}
+
+
+.features-icon:hover{
+  font-size: 45px;
+  color: #008E89;
+}
+
+
+
+
+
+.features-icon2{
+  font-size: 40px;
+  color: #FFD32D;
+}
+
+.features-icon2:hover{
+  font-size: 45px;
+  color: #FFD32D;
+}
+
+
+.feature-text {
+  font-weight: bold;
+}
+
+.feature-text:hover {
+  font-weight: bold;
+  font-size: 42px;
+}
+
+
+
+.feature-text2 {
+  font-weight: 400;
+}
+
+.feature-span{
+  color: white;
+}
+
+
+/* feature section  end  */
+
+#cycle-product{
+
+  align-items: center;
+  padding-top: 30px;
+  padding-left: 50px;
+  padding-right: 50px;
+
+background-image: -webkit-linear-gradient(0deg, #FFD32D 50%, #008E89  50%);
+
+
+}
+
+
+.cycle-text {
+  padding-left: 10rem;
+  background-image: -webkit-linear-gradient(20deg, #FFD32D 50%, #008E89  50%);
+
+}
+
+
+/* product section end */
+
+
+
+
+
+/* section card-zone start */
+#card-zone{
+  padding-top: 100px;
+  background-image: -webkit-linear-gradient(15deg, #FFD32D 50%, #008E89  50%);
+
+}
+
+
+#card-zone2{
+  padding-top: 100px;
+  background-image: -webkit-linear-gradient(500deg, #FFD32D 50%, #008E89  50%);
+
+}
+
+
+
+.cardzone{
+  background-image: -webkit-linear-gradient(100deg, #FFD32D 10%, #008E89  50%);
+
+}
+
+.cardzone:hover{
+  margin-top: 40px;
+  max-width: 900px;
+}
+/* card section end */
+
+#progress-zone{
+  padding-top: 150px;
+    background-image: -webkit-linear-gradient(10deg, #FFD32D 50%, #008E89  10%);
+}
+
+
+/* carousol-zone start  */
+#carousel-zone{
+  text-align: center;
+  padding-top: 100px;
+padding-right: 10%;
+  background-image: -webkit-linear-gradient(10deg, #FFD32D 50%, #008E89  10%);
+}
+
+.carousel-size{
+padding-left: 10%;
+  max-width: 800%;
+}
+
+@media(max-width: 1000px) {
+  #featureIcon{
+    font-size: 40px;
+    color:  #008E89;
+  }
+}
+
+  /* carousel end  */
+
+#footy {
+  background-image: -webkit-linear-gradient(60deg, #FFD32D 50%, #008E89  50%);
+}
+  /* footer section start  */
+.logo-l{
+  color: #FFD32D;
+}
+
+
+.logo-l:hover{
+  color: white;
+  width: 60px;
+}
+
+
+.text-reset{
+  color: white;
+}
+
+
+.text-reset:hover{
+  color: black;
+  text-decoration: none;
+
+
+}
